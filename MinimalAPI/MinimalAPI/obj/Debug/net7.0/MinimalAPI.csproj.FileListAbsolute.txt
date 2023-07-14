@@ -1,0 +1,64 @@
+D:\WorkSpace\MinimalAPI\MinimalAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\WorkSpace\MinimalAPI\MinimalAPI\bin\Debug\net7.0\appsettings.json
+D:\WorkSpace\MinimalAPI\MinimalAPI\bin\Debug\net7.0\MinimalAPI.exe
+D:\WorkSpace\MinimalAPI\MinimalAPI\bin\Debug\net7.0\MinimalAPI.deps.json
+D:\WorkSpace\MinimalAPI\MinimalAPI\bin\Debug\net7.0\MinimalAPI.runtimeconfig.json
+D:\WorkSpace\MinimalAPI\MinimalAPI\bin\Debug\net7.0\MinimalAPI.dll
+D:\WorkSpace\MinimalAPI\MinimalAPI\bin\Debug\net7.0\MinimalAPI.pdb
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.csproj.AssemblyReference.cache
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.AssemblyInfoInputs.cache
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.AssemblyInfo.cs
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\staticwebassets\msbuild.MinimalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.MinimalAPI.props
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MinimalAPI.props
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MinimalAPI.props
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\scopedcss\bundle\MinimalAPI.styles.css
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.dll
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\refint\MinimalAPI.dll
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.pdb
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.genruntimeconfig.cache
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\ref\MinimalAPI.dll
+D:\WorkSpace\MinimalAPI\MinimalAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\WorkSpace\MinimalAPI\MinimalAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\WorkSpace\MinimalAPI\MinimalAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WorkSpace\MinimalAPI\MinimalAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\WorkSpace\MinimalAPI\MinimalAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WorkSpace\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.csproj.CopyComplete
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\bin\Debug\net7.0\appsettings.json
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\bin\Debug\net7.0\MinimalAPI.exe
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\bin\Debug\net7.0\MinimalAPI.deps.json
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\bin\Debug\net7.0\MinimalAPI.runtimeconfig.json
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\bin\Debug\net7.0\MinimalAPI.dll
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\bin\Debug\net7.0\MinimalAPI.pdb
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.csproj.AssemblyReference.cache
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.AssemblyInfoInputs.cache
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.AssemblyInfo.cs
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\staticwebassets\msbuild.MinimalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.MinimalAPI.props
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MinimalAPI.props
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MinimalAPI.props
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\scopedcss\bundle\MinimalAPI.styles.css
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.csproj.CopyComplete
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.dll
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\refint\MinimalAPI.dll
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.pdb
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.genruntimeconfig.cache
+D:\WorkSpace\Minimal API Prac\MinimalAPI\MinimalAPI\obj\Debug\net7.0\ref\MinimalAPI.dll
